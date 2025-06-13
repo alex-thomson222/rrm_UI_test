@@ -1,5 +1,5 @@
 library(shiny)
-library(shinydashboard)
+#library(shinydashboard)
 library(shinyWidgets)
 library(tidyverse)
 library(gt)
@@ -8,6 +8,7 @@ library(htmlwidgets)
 library(shinycssloaders)
 library(plotly)
 library(DT)
+library(bs4Dash)
 
 source("dashboard_tab_items.R")
 
